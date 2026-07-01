@@ -5,5 +5,3 @@ A 30-day coding challenge where I follow the challenge [text](https://github.com
 ## Goal
 
 The goal of this repository is to keep track of my progress on the challenge.
-
-ss
